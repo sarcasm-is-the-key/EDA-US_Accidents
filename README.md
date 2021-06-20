@@ -1,5 +1,7 @@
 # EDA-US_Accidents
-Exploratory Data Analysis on  , 3 million dataset of US_Accidents(2016-2019).
+Exploratory Data Analysis on  3 million dataset of US_Accidents(2016-2019).
+
+Tools Used: Python, Numpy, Pandas, Matplotlib, Seaborn
 
 Link of used DataSet:
 https://www.kaggle.com/sobhanmoosavi/us-accidents
