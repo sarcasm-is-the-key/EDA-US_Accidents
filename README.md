@@ -3,6 +3,16 @@ Exploratory Data Analysis on  3 million dataset of US_Accidents(2016-2019).
 
 Tools Used: Python, Numpy, Pandas, Matplotlib, Seaborn
 
+Importance of this project:
+- To find out the specific reasons for the accidents.
+- To have proper attention on the cause and implementing work strategy to correct mistakes
+- To see on what points people should be made aware to prevent suffering from accidents.
+- To alert people about times on which they will be more prone to accidents, and many more
+
+Note: Visit to the last of this page to look at the future scope in this project
+
+P.S: Any suggestions and collaborations are highly respected.
+
 Link of used DataSet:
 https://www.kaggle.com/sobhanmoosavi/us-accidents
 
@@ -124,4 +134,21 @@ North Carolina Texas has more population than Florida, but the number of acciden
 States having more than 50k accidents are only 18
 
 States having less than 50k accidents are 31
+
+
+Future Scope:
+
+1. Data can be filled up with missing values
+
+2. The trend for accidents based on months of year are mostly irrelevant, so to fix this may be a problem.
+
+3. The Source of data is not found out, the data maybe from different sources: to validate the data
+
+4. Answering questions like:
+- What percent of people having accidents were drunk or high?
+- What percent of accidents took place due to ignoring traffic signals
+- Were the traffic signals working properly in those areas?
+- What percent of accidents were on highways and city roadways,etc.
+
+
 
